@@ -1,0 +1,20 @@
+<resources>
+
+    <color name="darker_grey">#aaa</color>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:windowBackground">@android:color/darker_gray</item>
+    </style>
+
+    <style name="WidgetLabel">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#fff</item>
+        <item name="android:padding">10dp</item>
+    </style>
+
+    <style name="Widget">
+        <item name="android:textColor">#fff</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+</resources>
